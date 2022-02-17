@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Student 17.02.22/1.0.0": {
+        "runtime": {
+          "Student 17.02.22.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Student 17.02.22/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
